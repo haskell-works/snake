@@ -1,0 +1,16 @@
+packages: . ../bricki-reflex
+
+source-repository-package
+  type: git
+  location: https://github.com/haskell-works/reflex-host
+  tag: fd50fe4d69d84d3613e07b9a4e7ab996ce218dd6
+
+source-repository-package
+  type: git
+  location: https://github.com/haskell-works/brick
+  tag: 988cc790eea04f93f2c7dc657c004cde6a47966e
+
+-- source-repository-package
+--   type: git
+--   location: https://github.com/lspitzner/bricki-reflex
+--   tag: b97ccef05f10bfbdac5ff56e1167af9ef62c99b1
